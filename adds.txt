@@ -1,6 +1,6 @@
 # Personal Blocklist (Modified)
 # The content in this list is derived from a personal log analysis
-# Updated on: 5/11/2023 17:51:17
+# Updated on: 5/11/2023 18:05:35
 
 # Licensing: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)
 ## You are welcome to copy, redistibute, remix, transform and build upon this content
@@ -8,118 +8,116 @@
 
 ## Ads ##
 advertising-api-eu.amazon.com
+adtago.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+analytics.s3.amazonaws.com
 pagead2.googlesyndication.com
-ad.doubleclick.net
-static.doubleclick.net
-m.doubleclick.net
-stats.g.doubleclick.net
+adservice.google.com
+afs.googlesyndication.com
 mediavisor.doubleclick.net
-wd.adcolony.com
 ads30.adcolony.com
 events3alt.adcolony.com
 adc3-launch.adcolony.com
-static.media.net
 media.net
 adservetx.media.net
 
 ## Analytics ##
-identify.hotjar.com
-events.hotjar.io
-surveys.hotjar.com
+app-measurement.com
+click.googleanalytics.com
+analytics.google.com
 insights.hotjar.com
-adm.hotjar.com
+events.hotjar.io
+identify.hotjar.com
+surveys.hotjar.com
 careers.hotjar.com
 script.hotjar.com
-freshmarketer.com
-claritybt.freshmarketer.com
+cdn.mouseflow.com
+mouseflow.com
+tools.mouseflow.com
 fwtracks.freshmarketer.com
-cdn.luckyorange.com
-upload.luckyorange.net
-cs.luckyorange.net
-api.luckyorange.com
 w1.luckyorange.com
+cdn.luckyorange.com
+cs.luckyorange.net
+upload.luckyorange.net
 realtime.luckyorange.com
+api.luckyorange.com
 luckyorange.com
 settings.luckyorange.net
 stats.wp.com
 
 ## Error Trackers ##
+api.bugsnag.com
 browser.sentry-cdn.com
+app.getsentry.com
 
 ## Social Trackers ##
+pixel.facebook.com
 an.facebook.com
 static.ads-twitter.com
 ads-api.twitter.com
-ads.linkedin.com
 analytics.pointdrive.linkedin.com
+ads.linkedin.com
 trk.pinterest.com
-log.pinterest.com
 widgets.pinterest.com
-ads.pinterest.com
-analytics.pinterest.com
 events.reddit.com
-events.redditmedia.com
 ads.youtube.com
 analytics.tiktok.com
-ads-api.tiktok.com
 analytics-sg.tiktok.com
 log.byteoversea.com
 business-api.tiktok.com
+ads-api.tiktok.com
 ads.tiktok.com
 ads-sg.tiktok.com
 
 ## Mix ##
 ads.yahoo.com
 log.fc.yahoo.com
-udc.yahoo.com
 analytics.query.yahoo.com
-geo.yahoo.com
+udc.yahoo.com
 udcm.yahoo.com
-analytics.yahoo.com
+geo.yahoo.com
 partnerads.ysm.yahoo.com
+analytics.yahoo.com
 gemini.yahoo.com
-advertising.yahoo.com
-adtech.yahooinc.com
-adfstat.yandex.ru
 extmaps-api.yandex.net
 offerwall.yandex.net
-adfox.yandex.ru
 metrika.yandex.ru
 advertising.yandex.ru
 appmetrica.yandex.ru
-webview.unityads.unity3d.com
 config.unityads.unity3d.com
+webview.unityads.unity3d.com
 auction.unityads.unity3d.com
 
 ## OEMs ##
-iot-eu-logser.realme.com
 bdapi-ads.realmemobile.com
 bdapi-in-ads.realmemobile.com
 iot-logser.realme.com
-sdkconfig.ad.xiaomi.com
 api.ad.xiaomi.com
 tracking.rus.miui.com
-data.mistat.rus.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 data.mistat.india.xiaomi.com
-data.mistat.xiaomi.com
-globalapi.ad.xiaomi.com
-data.ads.oppomobile.com
+data.mistat.rus.xiaomi.com
+sdkconfig.ad.xiaomi.com
+ck.ads.oppomobile.com
 adx.ads.oppomobile.com
+data.ads.oppomobile.com
 adsfs.oppomobile.com
 metrics2.data.hicloud.com
 logservice1.hicloud.com
-logservice.hicloud.com
-grs.hicloud.com
 logbak.hicloud.com
+logservice.hicloud.com
 metrics.data.hicloud.com
-open.oneplus.net
 click.oneplus.cn
-analytics-api.samsunghealthcn.com
+smetrics.samsung.com
 samsung-com.112.2o7.net
-weather-analytics-events.apple.com
+samsungads.com
+metrics.mzstatic.com
+metrics.icloud.com
 notes-analytics-events.apple.com
+weather-analytics-events.apple.com
 books-analytics-events.apple.com
-tr.iadsdk.apple.com
 api-adservices.apple.com
 advertising.apple.com
+iadsdk.apple.com
+tr.iadsdk.apple.com
